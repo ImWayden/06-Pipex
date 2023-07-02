@@ -1,0 +1,14 @@
+total 96
+-rwxr-xr-x 1 wayden wayden 16816 Jun 30 12:13 a.out
+-rwxr-xr-x 1 wayden wayden     0 Jun 30 13:25 cat
+-rwxrwxrwx 1 wayden wayden    24 Jun 30 11:29 infile.omg
+-rw-r--r-- 1 wayden wayden  3622 Jun 30 13:16 main.c
+-rwxr-xr-x 1 wayden wayden     2 Jun 30 13:25 outfil
+-rwxr-xr-x 1 wayden wayden    56 Jun 30 13:11 outfile
+-rwxr-xr-x 1 wayden wayden 17408 Jun 30 12:54 pipex
+-rw-r--r-- 1 wayden wayden  2668 Jun 30 13:14 simple pip.c
+-rwxr-xr-x 1 wayden wayden 17000 Jun 24 19:59 test
+-rw-r--r-- 1 wayden wayden    35 Jun 30 11:47 test.h
+-rw-r--r-- 1 wayden wayden   337 Jun 30 12:13 testcat.c
+-rw-r--r-- 1 wayden wayden  1425 Jun 24 19:59 testforkpipe.c
+-rw-r--r-- 1 wayden wayden   561 Jun 30 06:51 testshexecv.c
